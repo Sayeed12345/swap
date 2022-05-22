@@ -1,0 +1,10 @@
+<script>
+ 
+let Num1= 30;
+let Num2= 40;
+
+[a,b]=[b,a];
+
+console.log('the value of a is ${a} and the value of b is ${b}.');
+
+</script>
